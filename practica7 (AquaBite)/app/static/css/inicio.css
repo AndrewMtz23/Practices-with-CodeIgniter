@@ -1,0 +1,62 @@
+/*_Inicio_*/
+.navbar-brand img {
+    height: 70px;
+}
+
+.carousel-thumbnails img {
+    width: 65px;
+    height: 45px;
+    object-fit: cover;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.carousel-thumbnails img:hover,
+.carousel-thumbnails img.active {
+    opacity: 1;
+}
+
+.btn-compra-inicio {
+    background-color: #4a7b8a;
+    border-color: #4a7b8a;
+    font-size: 0.9rem; /* Reducir tamaño de fuente */
+    padding: 8px 20px; /* Reducir padding para hacer el botón más pequeño */
+}
+
+.btn-compra-inicio:hover {
+    background-color: #3d6673;
+    border-color: #3d6673;
+}
+
+.bg-light-alt-inicio {
+    background-color: #f1f1f1;
+    padding: 40px 0;
+}
+
+.feature-icon-inicio {
+    font-size: 3rem;
+    color: #4a7b8a;
+}
+
+/* Estilo del pie de página */
+.footer-inicio {
+    background-color: #232F3E;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.footer-inicio a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-inicio a:hover {
+    text-decoration: underline;
+}
+
+.footer-text-inicio {
+    text-align: center;
+    margin-top: 10px;
+}
+

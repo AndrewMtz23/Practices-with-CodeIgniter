@@ -1,0 +1,42 @@
+/*_Acerca de y CIA_*/
+.navbar-brand img { height: 70px; }
+.carousel-thumbnails img { width: 65px; height: 45px; object-fit: cover; cursor: pointer; opacity: 0.6; }
+.carousel-thumbnails img:hover, .carousel-thumbnails img.active { opacity: 1; }
+.btn-compra {
+    background-color: #4a7b8a;
+    border-color: #4a7b8a;
+}
+.btn-compra:hover {
+    background-color: #3d6673;
+    border-color: #3d6673;
+}
+.bg-light-alt {
+    background-color: #f1f1f1;
+    padding: 40px 0;
+}
+.feature-icon {
+    font-size: 3rem;
+    color: #4a7b8a;
+}
+
+.jumbotron { 
+    background-color: #007bff; 
+    color: #fff; 
+}
+.card { 
+    border: none; 
+}
+.card-title { 
+    color: #007bff; 
+}
+.card-text { 
+    color: #6c757d; 
+}
+.btn-primary { 
+    background-color: #007bff; 
+    border-color: #007bff; 
+}
+.btn-primary:hover { 
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
