@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|static|images|robots\.txt)
+RewriteRule ^(.*)$ /~morand218/practica5/app/index.php/$1 [L]
+
+$config['base_url'] = 'http://dtai.uteq.edu.mx/~morand218/practica5/app';
+
+
+local
+$config['base_url'] = 'http://localhost/awi4_t218/practicas/practica5/app/';
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|static|images|robots\.txt)
+RewriteRule ^(.*)$ http://localhost/awi4_t218/practicas/practica5/app/index.php/$1 [L]
