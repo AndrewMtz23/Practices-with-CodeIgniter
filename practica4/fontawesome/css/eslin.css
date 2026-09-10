@@ -1,0 +1,16 @@
+#divmapa {
+    height: 500px; 
+    width: 100%;
+}
+.map-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.map-container .left {
+    flex: 1;
+}
+.map-container .right {
+    width: 300px;
+    margin-left: 20px;
+}
