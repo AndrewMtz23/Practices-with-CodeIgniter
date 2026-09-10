@@ -1,0 +1,70 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    background-color: #00bfff;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .user-info img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .user-info .details {
+    text-align: left;
+    color: #fff;
+  }
+  
+  .user-info .details p {
+    margin: 0;
+  }
+  
+  .logout-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
+  .logout-button i {
+    margin-right: 8px;
+  }
+  
+  .practice-list {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 900px;
+  }
+  
+  .practice-list li {
+    margin-bottom: 10px;
+  }
+  
+  .practice-button {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 20px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  

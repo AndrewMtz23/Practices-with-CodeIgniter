@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/~morand218/practica8/build/static/css/main.c4d1a68d.css",
+    "main.js": "/~morand218/practica8/build/static/js/main.ae20c11e.js",
+    "static/js/453.ef7c9ab3.chunk.js": "/~morand218/practica8/build/static/js/453.ef7c9ab3.chunk.js",
+    "index.html": "/~morand218/practica8/build/index.html",
+    "main.c4d1a68d.css.map": "/~morand218/practica8/build/static/css/main.c4d1a68d.css.map",
+    "main.ae20c11e.js.map": "/~morand218/practica8/build/static/js/main.ae20c11e.js.map",
+    "453.ef7c9ab3.chunk.js.map": "/~morand218/practica8/build/static/js/453.ef7c9ab3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d1a68d.css",
+    "static/js/main.ae20c11e.js"
+  ]
+}
